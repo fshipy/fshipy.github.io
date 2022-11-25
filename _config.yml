@@ -81,7 +81,7 @@ content:
             - Operating System
             - Universe
   
-  - title: Research Experience # Title for the section
+  - title: Research Experience & Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
