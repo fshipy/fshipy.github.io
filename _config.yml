@@ -54,8 +54,6 @@ about_content: | # this will include new lines to allow paragraphs
   - view synthesis
   - scene understanding
   - autonomous driving
-  - object detection
-  - super-resolution
   - semi-supervised learning
   
   My mission is to explore state-of-the-art and apply them to solve downstream challenges.
@@ -78,7 +76,7 @@ content:
     content:
       - layout: left
         title: Research Assistant
-        link: #https://chil.uwaterloo.ca/
+        link: Advised by Zahra Sheikhbahaee, Jesse Hoey #https://chil.uwaterloo.ca/
         #link: www.uber.com/ca/en/
         # link_text: boringcompany.com
         sub_title: Volunteer
@@ -86,7 +84,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             
             
-            Computational Health Informatics Lab, Supervisor: Zahra Sheikhbahaee, Jesse Hoey
+            <mark>Computational Health Informatics Lab</mark>
             
             
             Research on world models for imaginative planning in reinforcement learning
@@ -101,16 +99,16 @@ content:
         description: | # this will include new lines to allow paragraphs
             
             
-            Vision and Image Processing Group, Supervisor: Alexander Wong 
+            <mark>Vision and Image Processing Group</mark>
             
             
-            Publication: *COVID-Net Assistant: A Deep Learning-Driven Virtual Assistant for Early COVID-19 Recommendation*
+            *COVID-Net Assistant: A Deep Learning-Driven Virtual Assistant for Early COVID-19 Recommendation*
             
             
-            **Pengyuan Shi**^, Yuetong Wang^, Saad Abbasi, Alexander Wong (^ denotes equal contribution)
+            **Pengyuan Shi***, Yuetong Wang*, Saad Abbasi, Alexander Wong (* denotes equal contribution)
             
             
-            Accepted by [CVIS 2022](https://cvis2022.github.io/)  |  [[link to paper]](https://arxiv.org/abs/2211.11944) #https://uwaterloo.ca/vision-image-processing-lab/
+            Accepted by [CVIS 2022](https://cvis2022.github.io/)  |  [[link to paper]](https://arxiv.org/abs/2211.11944)
             
             
             
@@ -123,16 +121,18 @@ content:
         sub_title: Part-time
         caption: September 2019 - November 2022
         description: | # this will include new lines to allow paragraphs
-            <mark>Applied & Principled PL Group</mark>,  
+            <mark>Applied & Principled PL Group</mark>
 
 
             *Type-Preserving, Dependence-Aware Guide Generation for Sound, Effective Amortized Probabilistic Inference*
             
             
             Jianlin Li, Leni Ven, **Pengyuan Shi**, and Yizhou Zhang
+
+
+            Accepted by [POPL 2023](https://popl23.sigplan.org/track/POPL-2023-popl-research-papers)  |  [[Link to Paper]](https://popl23.sigplan.org/details/POPL-2023-popl-research-papers/50/Type-Preserving-Dependence-Aware-Guide-Generation-for-Sound-Effective-Amortized-Pro)
             
-            
-            Accepted by [POPL 2023](https://popl23.sigplan.org/details/POPL-2023-popl-research-papers/50/Type-Preserving-Dependence-Aware-Guide-Generation-for-Sound-Effective-Amortized-Pro)
+
 
   - title: Industry Experience # Title for the section
     layout: list # Type of content section (list/text)
