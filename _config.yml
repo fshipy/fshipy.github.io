@@ -85,7 +85,7 @@ content:
     content:
       - layout: left
         title: Research Assistant
-        link: Advised by Zahra Sheikhbahaee #https://chil.uwaterloo.ca/
+        link: Advised by Dr. Zahra Sheikhbahaee #https://chil.uwaterloo.ca/
         #link: www.uber.com/ca/en/
         # link_text: boringcompany.com
         sub_title: Volunteer
@@ -100,7 +100,7 @@ content:
 
       - layout: left
         title: Research Assistant
-        link:  Advised by Alexander Wong #[[link to paper]](https://arxiv.org/abs/2211.11944) #https://uwaterloo.ca/vision-image-processing-lab/
+        link:  Advised by Prof. Alexander Wong #[[link to paper]](https://arxiv.org/abs/2211.11944) #https://uwaterloo.ca/vision-image-processing-lab/
         #link: Advisedwww.uber.com/ca/en/
         # link_text: boringcompany.com
         sub_title: Part-time 
@@ -124,7 +124,7 @@ content:
       
       - layout: left
         title: Research Assistant
-        link: Advised by Yizhou Zhang
+        link: Advised by Prof. Yizhou Zhang
         #link: www.uber.com/ca/en/
         # link_text: boringcompany.com
         sub_title: Part-time
