@@ -50,6 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Frank, and I'm currently a software engineer intern at Uber AI. I'm also in my 4th year as an undergraduate student at Unvierstiy of Waterloo, studying Computer Science with an AI specialization. 
   I'm very excited about artificial intelligence and computer vision. I'm fascinated with 
+  - deep learning
   - generative models
   - view synthesis
   - scene understanding
@@ -175,7 +176,7 @@ content:
         sub_title: Deep Learning and DevOps/QA Developer Intern
         caption: Jan 2021 - April 2021
         description: | # this will include new lines to allow paragraphs
-            Optimized training pipeline and analyzed Tensorflow deep learning models for object detection, image segmentation and classification problems
+            Optimized training pipeline and analyzed Tensorflow deep learning models for object detection, image segmentation and classification
       
       - layout: left
         title: Darwin AI
