@@ -68,8 +68,19 @@ content:
         quote: >
           GPA: 94/100
         description: | # this will include new lines to allow paragraphs
-          - Awards: Dean's Honours List, Term Distinction, President’s Scholarship
-          - Courses: Artificial Intelligence, Computer Vision, Neural Networks, Foundations of AI, Operating System, Algorihtms, Universe
+          - Awards: 
+            - Dean's Honours List
+            - Term Distinction
+            - President’s
+            - Scholarship
+          - Selective Courses:
+            - Artificial Intelligence
+            - Computer Vision
+            - Neural Networks
+            - Foundations of AI
+            - Operating System
+            - Algorihtms
+            -  Universe
   
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
