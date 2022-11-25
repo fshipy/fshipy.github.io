@@ -6,9 +6,9 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: Pengyuan Shi (Frank)
+title: Passionate Computer Science Student
+email: p23shi@uwaterloo.ca
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
@@ -61,10 +61,48 @@ content:
         quote: >
           GPA: 94/100
         description: | # this will include new lines to allow paragraphs
-          - Courses I love: Artificial Intelligence, Computer Vision, Neural Networks, Foundations of AI, Operating System, Algorihtms, Universe
           - Awards: Dean's Honours List, Term Distinction, President’s Scholarship
+          - Courses: Artificial Intelligence, Computer Vision, Neural Networks, Foundations of AI, Operating System, Algorihtms, Universe
   
-  - title: Experience # Title for the section
+  - title: Research Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Research Assistant (Volunteer) 
+        link:
+        #link: www.uber.com/ca/en/
+        # link_text: boringcompany.com
+        sub_title: Computational Health Informatics Lab | Supervisor - Zahra Sheikhbahaee, Jesse Hoey 
+        caption: May 2022 - Present
+        description: | # this will include new lines to allow paragraphs
+            Research on world models for imaginative planning in Reinforcement Learning
+
+      - layout: left
+        title: Research Assistant (Part-time, Volunteer)
+        link:
+        #link: www.uber.com/ca/en/
+        # link_text: boringcompany.com
+        sub_title: Vision and Image Processing Group | Supervisor - Alexander Wong 
+        caption: May 2022 - Present
+        description: | # this will include new lines to allow paragraphs
+            Publication: COVID-Net Assistant: A Deep Learning-Driven Virtual Assistant for Early COVID-19 Recommendation 
+            Pengyuan Shi*, Yuetong Wang*, Saad Abbasi, Alexander Wong (* denotes equal contribution)
+            Accpeted by [CVIS 2022](https://cvis2022.github.io/)
+            [arxiv](https://arxiv.org/abs/2211.11944)
+      
+      - layout: left
+        title: Research Assistant (Part-time, Volunteer)
+        link:
+        #link: www.uber.com/ca/en/
+        # link_text: boringcompany.com
+        sub_title: Applied & Principled PL Group | Supervisor - Yizhou Zhang
+        caption: September 2019 - November 2022
+        description: | # this will include new lines to allow paragraphs
+            Publication: Type-Preserving, Dependence-Aware Guide Generation for Sound, Effective Amortized Probabilistic Inference 
+            Jianlin Li, Leni Ven, Pengyuan Shi, and Yizhou Zhang
+            Accpeted by [POPL 2023](https://popl23.sigplan.org/details/POPL-2023-popl-research-papers/50/Type-Preserving-Dependence-Aware-Guide-Generation-for-Sound-Effective-Amortized-Pro)
+
+  - title: Industry Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -75,7 +113,7 @@ content:
         sub_title: Software Engineering Intern
         caption: May 2022 - Present
         description: | # this will include new lines to allow paragraphs
-            Building deep learning models for image and document processing in the applied AI team. Also developing backend service for serving machine learning models via API. 
+            Building deep learning models for image and document processing in the applied AI team. Also developing backend service for serving machine learning models via API
       
       - layout: left
         title: Twitter
@@ -85,27 +123,37 @@ content:
         sub_title: Engineering Intern
         caption: May 2021 - December 2021
         description: | # this will include new lines to allow paragraphs
-            Built data pipeline and machine learning models for user engagement prediction in the home backend modeling team.
+            Architected data pipeline and machine learning models for user engagement prediction in the home backend modeling team
       
       - layout: left
-        title: Uber
+        title: Darwin AI
         link:
         #link: www.uber.com/ca/en/
         # link_text: boringcompany.com
-        sub_title: Software Engineering Intern
-        caption: May 2022 - Present
+        sub_title: Deep Learning and DevOps/QA Developer Intern
+        caption: Jan 2021 - April 2021
         description: | # this will include new lines to allow paragraphs
-            Building deep learning models for image and document processing in the applied AI team. Also developing backend service for serving machine learning models via API. 
+            Optimized training pipeline and analyzed Tensorflow deep learning models for object detection, image segmentation and classification problems
       
       - layout: left
-        title: Twitter
+        title: Darwin AI
         link:
         #link: https://twitter.com/
         # link_text: boringcompany.com
-        sub_title: Engineering Intern
-        caption: May 2021 - December 2021
+        sub_title: Machine Learning Test Automation Developer Intern
+        caption: May 2020 - August 2020
         description: | # this will include new lines to allow paragraphs
-            Built data pipeline and machine learning models for user engagement prediction in the home backend modeling team.
+            Implemented an end-to-end automated testing system for machine learning platform
+      
+      - layout: left
+        title: Genesys
+        link:
+        #link: https://twitter.com/
+        # link_text: boringcompany.com
+        sub_title: Quality Assurance Intern
+        caption: September 2019 - December 2019
+        description: | # this will include new lines to allow paragraphs
+            Developed a Python multithreaded inbounded calls simulation program for automated testing
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
