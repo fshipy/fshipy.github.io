@@ -165,7 +165,7 @@ content:
         sub_title: Engineering Intern
         caption: May 2021 - December 2021
         description: | # this will include new lines to allow paragraphs
-            Architected data pipeline and machine learning models for user engagement prediction in the home backend modeling team
+            Architected data pipeline and machine learning models for user engagement prediction in the home modeling team
       
       - layout: left
         title: Darwin AI
