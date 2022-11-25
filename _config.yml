@@ -76,7 +76,7 @@ content:
     content:
       - layout: left
         title: Research Assistant
-        link: Advised by Zahra Sheikhbahaee, Jesse Hoey #https://chil.uwaterloo.ca/
+        link: Advised by Zahra Sheikhbahaee #https://chil.uwaterloo.ca/
         #link: www.uber.com/ca/en/
         # link_text: boringcompany.com
         sub_title: Volunteer
@@ -84,7 +84,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             
             
-            <mark>Computational Health Informatics Lab</mark>
+            __Computational Health Informatics Lab__
             
             
             Research on world models for imaginative planning in reinforcement learning
@@ -108,7 +108,7 @@ content:
             **Pengyuan Shi***, Yuetong Wang*, Saad Abbasi, Alexander Wong (* denotes equal contribution)
             
             
-            Accepted by [CVIS 2022](https://cvis2022.github.io/)  |  [[link to paper]](https://arxiv.org/abs/2211.11944)
+            Accepted by [CVIS 2022](https://cvis2022.github.io/)  |  [[Link to Paper]](https://arxiv.org/abs/2211.11944)
             
             
             
@@ -145,7 +145,7 @@ content:
         sub_title: Software Engineering Intern
         caption: May 2022 - Present
         description: | # this will include new lines to allow paragraphs
-            Building deep learning models for image and document processing in the applied AI team. Also developing backend service for serving machine learning models via API
+            Building deep learning models for image and document processing in the applied AI team. Also developing backend service for serving machine learning models via gRPC API
       
       - layout: left
         title: Twitter
@@ -191,20 +191,44 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: COVIDNet-Assistant
+        link: https://github.com/fshipy/COVIDNet-Assistant
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # description: | # this will include new lines to allow paragraphs
+        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+      
+      - layout: top-middle
+        title: anime.ai
+        link: https://github.com/fshipy/anime.ai
+        additional_links:
+          - title:  Github Link
+            icon: fab fa-github
+            url: github.com/fshipy/anime.ai
+    
+      - layout: top-middle
+        title: ai-breaker
+        link: https://github.com/fshipy/anime.ai
+        link_text: Github Link
+      
+      - layout: top-middle
+        title: Semi-Supervised Learning in Image Classification
+        link: https://github.com/fshipy/Image-Classification-Semi-Supervised-Learning
+      
+      - layout: top-middle
+        title: Placeopedia
+        link: https://play.google.com/store/apps/details?id=com.uwcs.placeopedia
+      
+
+      
 
   - title: Miscellaneous 
     layout: text
