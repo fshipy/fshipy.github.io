@@ -215,6 +215,11 @@ content:
         title: ai-breaker
         link: https://github.com/fshipy/ai-breaker
         link_text: Github Link
+        
+      - layout: top-middle
+        title: Rebirth (OpenGL Animation Project)
+        link: https://www.youtube.com/watch?v=ALdD3BgNBzk
+        link_text: Youtube Demo
       
       - layout: top-middle
         title: Semi-Supervised Learning in Image Classification
