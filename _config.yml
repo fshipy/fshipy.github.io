@@ -53,6 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   - deep learning
   - generative models
   - view synthesis
+  - 3D reconstruction
   - scene understanding
   - autonomous driving
   - semi-supervised learning
@@ -74,12 +75,15 @@ content:
             - Term Distinction
             - President’s Scholarship
           - Courses:
-            - Artificial Intelligence
-            - Computer Vision
-            - Neural Networks
-            - Machine Intelligence
-            - Operating System
-            - Universe
+            - Artificial Intelligence (CS-486)
+            - Machine Learning (CS-480)
+            - Computer Vision (CS-484)
+            - Neural Networks (CS-479)
+            - Machine Intelligence (SYDE-522)
+            - Computer Graphics (CS-488)
+            - Autonomous Vehicles (ECE-495)
+            - Software Architectures (CS-446)
+            - Universe (PHYS-175)
   
   - title: Research Experience & Publications # Title for the section
     layout: list # Type of content section (list/text)
