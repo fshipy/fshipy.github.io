@@ -74,16 +74,16 @@ content:
             - Dean's Honours List
             - Term Distinction
             - President’s Scholarship
-          - Courses:
-            - Artificial Intelligence (CS-486)
-            - Machine Learning (CS-480)
-            - Computer Vision (CS-484)
-            - Neural Networks (CS-479)
-            - Machine Intelligence (SYDE-522)
-            - Computer Graphics (CS-488)
-            - Autonomous Vehicles (ECE-495)
-            - Software Architectures (CS-446)
-            - Universe (PHYS-175)
+          - Fav Courses:
+            - Artificial Intelligence
+            - Machine Learning
+            - Computer Vision
+            - Neural Networks
+            - Machine Intelligence
+            - Computer Graphics
+            - Autonomous Vehicles
+            - Software Architectures
+            - Universe
   
   - title: Research Experience & Publications # Title for the section
     layout: list # Type of content section (list/text)
