@@ -57,8 +57,10 @@ about_content: | # this will include new lines to allow paragraphs
   - scene understanding
   - autonomous driving
   - semi-supervised learning
+
+  During my undergraduate study, I interned at Uber and Twitter to apply AI technology in the real world, which grants me invaluable industrial experiences. 
   
-  I will study at Columbia University this Fall as a Master student to further explore the state-of-the-art in machine learning.
+  Starting Fall 2023, I will study at Columbia University as a Master student to further explore the state-of-the-art in AI and ML.
 
 content:
   - title: Education # Title for the section
